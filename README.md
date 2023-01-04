@@ -47,5 +47,5 @@ https://github.com/junegunn/vim-plug
 
 ![vasp](./picture/vasp.png)
 <img src="./picture/qe.png"  style="zoom: 25%;" />
-<img src="./picture/cp2k.png"  style="zoom: 25%;" />
+<img src="./picture/cp2k.png"  style="zoom: 95%;" />
 <img src="./picture/abinit.png"  style="zoom: 25%;" />
