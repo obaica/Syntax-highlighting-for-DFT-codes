@@ -1,13 +1,17 @@
 # Syntax-highlighting-for-DFT-codes
 
-quantum_espresso:
+1.Qquantum Espresso:
+
 https://github.com/leseixas/quantum_espresso-vim
 
-abinit:
+2. ABINIT:
+
 https://github.com/Lattay/abinit.vim
 
-vasp:
+3. VASP:
+
 https://github.com/Lattay/vasp.vim
 
-cp2k:
+4. CP2K:
+
 https://github.com/cp2k/vim-cp2k
