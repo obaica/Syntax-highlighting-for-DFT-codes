@@ -1,6 +1,6 @@
 # Syntax-highlighting-for-DFT-codes
 
-1.Qquantum Espresso:
+1. Qquantum Espresso:
 
 https://github.com/leseixas/quantum_espresso-vim
 
