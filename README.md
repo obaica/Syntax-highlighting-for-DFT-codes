@@ -1,4 +1,6 @@
-### Syntax-highlighting-for-DFT-codes
+### vim
+
+Syntax highlighting for Qquantum Espresso, ABINIT, VASP, and CP2K. 
 
 **1.Qquantum Espresso:**
 
@@ -18,7 +20,26 @@ https://github.com/cp2k/vim-cp2k
 
 ### How to use
 
-download the `autoload.tar.gz` file, put this file in the directory ~/.vim 
+First, download the `autoload.tar.gz` file, put this file in the directory ~/.vim 
+
 ```
-download the `autoload.tar.gz` file, put this file in the directory ~/.vim 
+—> ~ cd ~/.vim
+autoload
+—> ~ pwd
+/vol01/homes/hy8493/.vim
+—> ~ cd autoload/
+abinit.vim  plug.vim  quantum_espresso-vim  vasp.vim  vim-cp2k
+
 ```
+Sencond, copy the following content to your `.vimrc`, for examples, `vi ~/.vimrc`.
+```
+call plug#begin('~/.vim/autoload')
+Plug 'Lattay/abinit.vim'
+Plug 'Lattay/vasp.vim'
+Plug 'cp2k/vim-cp2k'
+Plug 'leseixas/quantum_espresso-vim'
+call plug#end()
+
+```
+
+https://github.com/junegunn/vim-plug
