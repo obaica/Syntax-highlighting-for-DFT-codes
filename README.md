@@ -16,6 +16,9 @@ https://github.com/Lattay/vasp.vim
 
 https://github.com/cp2k/vim-cp2k
 
-**Usage:**
+### How to use
 
 download the `autoload.tar.gz` file, put this file in the directory ~/.vim 
+```
+download the `autoload.tar.gz` file, put this file in the directory ~/.vim 
+```
