@@ -1,4 +1,4 @@
-## vim
+## vim files
 
 Syntax highlighting for Qquantum Espresso, ABINIT, VASP, and CP2K. 
 
@@ -21,7 +21,7 @@ https://github.com/cp2k/vim-cp2k
 
 ## How to use
 
-First, download the `autoload.tar.gz` file, put this file in the directory ~/.vim 
+First, download the `autoload.tar.gz` file, put this file in the directory `~/.vim `
 
 ```
 —> ~ cd ~/.vim
