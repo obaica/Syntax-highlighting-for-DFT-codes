@@ -43,4 +43,9 @@ call plug#end()
 
 https://github.com/junegunn/vim-plug
 
+## snapshoot for syntax highlighting
+
 ![vasp](./picture/vasp.png)
+![qe](./picture/qe.png)
+![cp2k](./picture/cp2k.png)
+![abinit](./picture/abinit.png)
