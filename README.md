@@ -46,6 +46,6 @@ https://github.com/junegunn/vim-plug
 ## snapshoot for syntax highlighting
 
 ![vasp](./picture/vasp.png)
-<img src="./picture/qe.png"  width="60%", heigth="60%";" />
+<img src="./picture/qe.png"  width=60%;" />
 <img src="./picture/cp2k.png"  style="zoom: 95%;" />
 <img src="./picture/abinit.png"  style="zoom: 25%;" />
